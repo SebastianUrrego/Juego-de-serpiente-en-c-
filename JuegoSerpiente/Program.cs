@@ -64,7 +64,7 @@ void Game()
 {
     while (jugar && snake.Vivo)
     {
-        // Verificar entrada de teclado
+
         if (Console.KeyAvailable)
         {
             var tecla = Console.ReadKey(true).Key;
@@ -78,6 +78,9 @@ void Game()
         }
 
         snake.Mover();
+
+        // Redibujar comida por si fue borrada por la cola
+        comida.Dibujar();
 
         // Verificar colisión con comida 
         if (snake.Cabeza.X == comida.Posicion.X && snake.Cabeza.Y == comida.Posicion.Y)

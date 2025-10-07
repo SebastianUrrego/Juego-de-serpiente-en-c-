@@ -26,3 +26,18 @@ C:\Users\user\OneDrive\Escritorio\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0
 C:\Users\user\OneDrive\Escritorio\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.pdb
 C:\Users\user\OneDrive\Escritorio\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.genruntimeconfig.cache
 C:\Users\user\OneDrive\Escritorio\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\ref\JuegoSerpiente.dll
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.exe
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.deps.json
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.runtimeconfig.json
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.dll
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\bin\Debug\net8.0\JuegoSerpiente.pdb
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.AssemblyInfo.cs
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.sourcelink.json
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.dll
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\refint\JuegoSerpiente.dll
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.pdb
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\JuegoSerpiente.genruntimeconfig.cache
+C:\Users\user\OneDrive\Escritorio\proyectos personales\juegoSerpiente\JuegoSerpiente\obj\Debug\net8.0\ref\JuegoSerpiente.dll

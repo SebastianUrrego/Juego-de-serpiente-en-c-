@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JuegoSerpiente\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JuegoSerpiente\\Comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JuegoSerpiente\\Snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JuegoSerpiente\\Ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Comida.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Comida.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Comida.cs",
               "RelativeDocumentMoniker": "JuegoSerpiente\\Comida.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Comida.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Comida.cs",
               "RelativeToolTip": "JuegoSerpiente\\Comida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T23:56:09.439Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Snake.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Snake.cs",
               "RelativeDocumentMoniker": "JuegoSerpiente\\Snake.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Snake.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Snake.cs",
               "RelativeToolTip": "JuegoSerpiente\\Snake.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,24 +58,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ventana.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs",
               "RelativeDocumentMoniker": "JuegoSerpiente\\Ventana.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Ventana.cs",
               "RelativeToolTip": "JuegoSerpiente\\Ventana.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T22:35:05.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T22:35:05.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Program.cs",
               "RelativeDocumentMoniker": "JuegoSerpiente\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\juegoSerpiente\\JuegoSerpiente\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\proyectos personales\\juegoSerpiente\\JuegoSerpiente\\Program.cs",
               "RelativeToolTip": "JuegoSerpiente\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T22:33:27.635Z",
               "EditorCaption": ""

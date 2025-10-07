@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuegoSerpiente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39aa5cf0ad762c104e9ff4357d929f8feda86714")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuegoSerpiente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuegoSerpiente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
